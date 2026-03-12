@@ -20,9 +20,12 @@ Our code can be run by running the *spotify.ipynb* notebook. Python 3.11+ can be
 ## File structure:
 
 - *dataset.csv*: Raw CSV downloaded from Kaggle dataset
-- *spotify.ipynb*: Jupyter notebook containing data analysis and linear regression results
 - *group11_spotify_presentation.pdf*: Presentation of overall project
+- *spotify.ipynb*: Jupyter notebook containing data analysis and linear regression results
 
+
+- *src/*
+  - *data_processing.py*: Python code containing functions that can take in a dataframe to process/ clean the data, along with printing out some metrics and outliers
 
 ## Third-Party/ Imported Modules:
 
