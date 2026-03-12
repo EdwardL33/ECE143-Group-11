@@ -16,6 +16,8 @@ Link: https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset/dat
 
 - *dataset.csv*: Raw CSV downloaded from Kaggle dataset
 - *spotify.ipynb*: Jupyter notebook containing data analysis and linear regression results
+- *group11_spotify_presentation.pdf*: Presentation of overall project
+
 
 # Third-Party/ Imported Modules:
 
