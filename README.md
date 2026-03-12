@@ -12,6 +12,11 @@ Link: https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset/dat
 4. What features affect popularity, and how much? Do groups of features seem to correlate better?
 5. Within a specific genre, what features might we see to be particularly important?
 
+## Running our Code
+
+Our code can be run by running the *spotify.ipynb* notebook. Python 3.11+ can be used, along with the libraries listed below.
+
+
 ## File structure:
 
 - *dataset.csv*: Raw CSV downloaded from Kaggle dataset
@@ -19,7 +24,7 @@ Link: https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset/dat
 - *group11_spotify_presentation.pdf*: Presentation of overall project
 
 
-# Third-Party/ Imported Modules:
+## Third-Party/ Imported Modules:
 
 - Numpy
 - Pandas
