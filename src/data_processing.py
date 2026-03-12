@@ -59,7 +59,7 @@ def df_data_cleaning(input_df):
 
 def describe_df_outliers(input_df):
     '''
-    Function to take input datafram and describe outliers we might see within the data  in some categories (examples: tempo, loudness)
+    Function to take input dataframe and describe characteristics/outliers we might see within the data
     '''
     df = input_df
     
