@@ -26,6 +26,8 @@ Our code can be run by running the *spotify.ipynb* notebook. Python 3.11+ can be
 
 - *src/*
   - *data_processing.py*: Python code containing functions that can take in a dataframe to process/ clean the data, along with printing out some metrics and outliers
+  - *regression.py*: Python code containing functions used for performing regression analysis to understand which features predict track popularity
+  - *genre_metrics.py*: Python code containing functions to analyze Spotify track popularity by genre
 
 ## Third-Party/ Imported Modules:
 
